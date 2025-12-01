@@ -1,2 +1,1 @@
-# git-exercises-konf
-git-repo(konf)
+New Repo
